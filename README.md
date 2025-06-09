@@ -30,6 +30,7 @@ These scripts have been tested with Firefox and Violentmonkey on macOS, but shou
 | Script Name | Description |
 |-------------|-------------|
 | [`protonmail-oldest-first.user.js`](protonmail-oldest-first.user.js) | Automatically sorts emails by date (oldest first) in your ProtonMail inbox. |
+| [`protonmail-remove-signature.user.js`](protonmail-remove-signature.user.js) | Automatically removes the default ProtonMail signature when composing new emails. |
 
 ## Contributing
 
